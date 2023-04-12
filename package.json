@@ -1,6 +1,6 @@
 {
   "name": "@example/home-react",
-  "homepage": "https://jchuayta.github.io/mf-home-react/",
+  "homepage": "https://jchuayta.github.io/mf-home-react",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
